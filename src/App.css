@@ -1,0 +1,18 @@
+.game {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(228, 63, 52);
+    background-color: rgb(233, 233, 233);
+}
+.cell{
+    width: 100px;
+    height: 100px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    cursor: pointer;
+}
